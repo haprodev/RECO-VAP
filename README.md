@@ -30,6 +30,7 @@ RECO addresses these challenges through a fully autonomous and distributed DevSe
 
 Built on a Golang based job oriented microservice architecture, RECO coordinates master and worker nodes for high concurrency analysis at scale. Alongside full automation, a selective operation mode enables expert analysts to guide targeted activities through an advanced control interface, combining human expertise with AI assisted decision support. Through adaptive orchestration, context aware reasoning, and controlled learning mechanisms, RECO delivers continuous, full cycle security evaluation and redefines vulnerability analysis for organizations operating within rapidly expanding digital ecosystems.
 
+---
 ## Core Objectives
 
 RECO was designed to achieve the following:
