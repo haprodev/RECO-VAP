@@ -4,7 +4,7 @@
 
 ---
 
-## 🔍 Overview
+## Overview
 
 **RECO** is a distributed DevSecOps intelligence platform designed for **autonomous reconnaissance, vulnerability assessment, and controlled exploitation** in governed research environments.
 
@@ -18,7 +18,7 @@ RECO operates as a **modular, job‑oriented analytical platform** capable of an
 
 ---
 
-## 🎯 Core Objectives
+## Core Objectives
 
 RECO was designed to achieve the following:
 
@@ -33,7 +33,7 @@ The project aims to bridge the gap between **traditional scanners** and **intell
 
 ---
 
-## 🧠 Key Capabilities
+## Key Capabilities
 
 ### Autonomous Reconnaissance
 Performs continuous discovery of assets, services, and technologies with dynamic adjustment of exploration depth.
@@ -55,7 +55,7 @@ Performs *policy‑bound exploitation* strictly for validation and accuracy impr
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 RECO’s architecture integrates the following major components:
 
@@ -70,7 +70,7 @@ RECO’s architecture integrates the following major components:
 
 ---
 
-## ⚙️ Architectural Characteristics
+## Architectural Characteristics
 
 - Modular, puzzle‑style architecture  
 - Horizontally scalable and fault‑tolerant  
@@ -80,7 +80,7 @@ RECO’s architecture integrates the following major components:
 
 ---
 
-## 💻 Technology Stack
+## Technology Stack
 
 - **Language:** Golang  
 - **Architecture:** Distributed job‑oriented system  
@@ -90,7 +90,7 @@ RECO’s architecture integrates the following major components:
 
 ---
 
-## 🔁 Operational Workflow
+## Operational Workflow
 
 RECO executes its automated assessment workflow in three conceptual stages:
 
@@ -101,7 +101,7 @@ RECO executes its automated assessment workflow in three conceptual stages:
 
 ---
 
-## 🧩 Design Philosophy
+## Design Philosophy
 
 - **Intelligence before brute force**  
 - **Correlation over isolated detections**  
@@ -114,7 +114,7 @@ The goal: move from static scanning toward **reasoning‑driven security analysi
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 | Topic | Description |
 |-------|--------------|
@@ -124,7 +124,7 @@ The goal: move from static scanning toward **reasoning‑driven security analysi
 
 ---
 
-## 🧪 Project Status
+## Project Status
 
 > **Status:** Research Prototype  
 > **Lifecycle:** Active internal development & experimentation.
@@ -133,7 +133,7 @@ Public documents describe conceptual architecture and research direction — *no
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is intended solely for **security research and defensive experimentation** within
 **controlled, explicitly authorized environments**.
@@ -142,7 +142,7 @@ Unauthorized scanning or exploitation activity against systems without consent i
 
 ---
 
-## 👤 Author & Research Attribution
+## Author & Research Attribution
 
 **RECO Research Initiative**  
 Security Intelligence & Systems Architecture Project  
